@@ -1,0 +1,8 @@
+{
+  "name": "jbvendor",
+  "app_id": "fca85bfe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
